@@ -1,0 +1,10 @@
+.view{
+    height: 300px;
+    width: 250px;
+    border: 25px;
+    background-color:grey;
+    border-color: black;
+    padding-top: 25px;
+    padding-left: 50px;
+    margin-left: 950px;
+}
